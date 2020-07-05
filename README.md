@@ -18,5 +18,7 @@ We used 5 classification algorithms. The key point was not to gain high overall 
 There are several methods of deploying ML models. The best one and friendly method is to deploy the model on a web app using flask framework. Given below is the flow chart that explains how ML models are used on web apps.
 
 ![](images/deployment.png)
+analyticsvidhya.com
 
 ![](images/deploymentdocker.png)
+dvelsner
