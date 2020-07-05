@@ -4,7 +4,7 @@
 A machine learning project on an imbalanced credit card data that detects the fraudulent transactions. Out of the whole dataset, only 0.17% of the transactions
 were fraudulent. This makes it very hard to detect the outliers in the data with a good accuracy. We visualized certain aspects of the dataset to gain any useful insight. Due to long time of training the models, we used only 20% of the data to train and test our model.
 
-Given below is an easy explanation of credit card fraud.
+Given below is an easy explanation of credit card fraud detection.
 
 ![](images/flowchart.png)
 
