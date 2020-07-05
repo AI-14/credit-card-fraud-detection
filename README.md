@@ -5,7 +5,7 @@ A machine learning project on an imbalanced credit card data that detects the fr
 were fraudulent. This makes it very hard to detect the outliers in the data with a good accuracy. We visualized certain aspects of the dataset to gain any useful insight. Due to long time of training the models, we used only 20% of the data to train and test our model.
 
 Given below is the overall flowchart of how frauds are detected and prevented.
-![](images\flowchart.png)
+![](images/flowchart.png)
 
 ## Dataset
 I have already provided the link of the dataset in the jupyter notebook.
@@ -15,4 +15,4 @@ We used 5 classification algorithms. The key point was not to gain high overall 
 
 ## Deployment
 There are several methods of deploying ML models. The best one and friendly method is to deploy the model on a web app using flask framework. Given below is the flow chart that explain how ML models are used on web apps.
-![](images\deployment.png)
+![](images/deployment.png)
