@@ -14,7 +14,7 @@ I have already provided the link of the dataset in the jupyter notebook.
 ## Results
 We used 5 classification algorithms. The key point was not to gain high overall accuracy but high accuracy for only outlier detection because we have to prevent fraudulent transactions not the valid ones. At first it was very difficult to choose certain model for high accuracy. However, we thought of using ensemble model - *Random Forests* and got the outlier's accuracy to be **81%**. I also used an unsupervised algorithm which is used for the sole purpose of anomaly detection - *Isolation Forests* and it performed well on 20% of the dataset. We could choose either of these models for prediction but we chose random forest and saved it using pickle.
 
-## Deployment of the model
+## Deployment Of The Model
 There are several methods of deploying ML models. The best one and friendly method is to deploy the model on a web app using flask framework. Given below is the flow chart that explains how ML models are used on web apps.
 
 ![](images/deployment.png)
