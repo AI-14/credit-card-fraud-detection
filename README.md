@@ -7,8 +7,8 @@ were fraudulent. This makes it very hard to detect the outliers in the data with
 Given below is an easy explanation of credit card fraud detection.
 
 ![](images/flowchart.png)
+<div align="center">Source: Google Images</div>
 
-Source: Google Images
 ## Dataset
 I have already provided the link of the dataset in the jupyter notebook.
 
