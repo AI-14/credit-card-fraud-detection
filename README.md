@@ -1,7 +1,8 @@
 # Credit Card Fraud Detection
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-566be8?style=flat)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566be8?style=flat)
   ![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
 
 ## Description
 A machine learning project on an imbalanced credit card data that detects the fraudulent transactions. Out of the whole dataset, only 0.17% of the transactions
