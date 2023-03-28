@@ -4,7 +4,7 @@
 ![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
 
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Dataset](#dataset)
 3. [Results](#results)
