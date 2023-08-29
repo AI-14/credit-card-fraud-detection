@@ -4,7 +4,7 @@
 1. [Description](#description)
 2. [Dataset](#dataset)
 3. [Results](#results)
-4. [Steps taken in this project](#project-steps)
+4. [Steps taken in this Project](#project-steps)
 5. [Installation and Usage](#installation-usage)
 
 ## Description <a name="description"></a>
@@ -20,7 +20,7 @@ Link of the dataset is in the jupyter notebook
 ## Results <a name="results"></a>
 I used 5 classification algorithms. The key point was not to gain high overall accuracy but high accuracy for only outlier detection because we have to prevent fraudulent transactions not the valid ones. At first it was very difficult to choose certain model for high accuracy. However, I thought of using ensemble model - *Random Forests* and got the outlier's accuracy to be **81%**. I also used an unsupervised algorithm which is used for the sole purpose of anomaly detection - *Isolation Forests* and it performed well on 20% of the dataset. I could choose either of these models for prediction but chose random forest and saved it using pickle.
 
-## Steps taken in this project <a name="project-steps"></a>
+## Steps taken in this Project <a name="project-steps"></a>
 - Data collection
 - EDA & visualization
 - Model selection & building it
